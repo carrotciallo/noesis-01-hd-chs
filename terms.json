@@ -1,0 +1,223 @@
+{
+  "locked": [
+    {
+      "source": "時雨",
+      "target": "时雨",
+      "category": "character",
+      "status": "locked",
+      "samples": [
+        "HD 【時雨】 → 旧 「时雨」"
+      ]
+    },
+    {
+      "source": "千夜",
+      "target": "千夜",
+      "category": "character",
+      "status": "locked",
+      "samples": [
+        "HD 【千夜】 → 旧 「千夜」"
+      ]
+    },
+    {
+      "source": "こよみ",
+      "target": "小夜美",
+      "category": "character",
+      "status": "locked",
+      "samples": [
+        "HD 【こよみ】 → 旧 「小夜美」"
+      ]
+    },
+    {
+      "source": "憂姫",
+      "target": "忧姬",
+      "category": "character",
+      "status": "locked",
+      "samples": [
+        "HD 【憂姫】 → 旧 「忧姬」"
+      ]
+    },
+    {
+      "source": "一夜",
+      "target": "一夜",
+      "category": "character",
+      "status": "locked",
+      "samples": [
+        "HD 【一夜】 → 旧 「一夜」"
+      ]
+    },
+    {
+      "source": "遥",
+      "target": "遥",
+      "category": "character",
+      "status": "locked",
+      "samples": [
+        "HD 【遥】 → 旧 「遥」"
+      ]
+    },
+    {
+      "source": "クエデア",
+      "target": "珂蒂娅",
+      "category": "character",
+      "status": "locked",
+      "samples": [
+        "HD 【クエデア】 → 旧 「珂蒂娅」"
+      ]
+    },
+    {
+      "source": "さなぎ",
+      "target": "纱奈姬（HD 新角色「さなぎ」的官方音译名；她自称「萤/萤火虫」，未命名前=少女A）",
+      "category": "character",
+      "status": "locked",
+      "samples": [
+        "HD 【さなぎ】 → 旧 「さなぎ（HD新角色，旧版无对应）」"
+      ]
+    },
+    {
+      "source": "上級生",
+      "target": "？？？/高年级生/学生会长",
+      "category": "character",
+      "status": "locked",
+      "samples": [
+        "HD 【上級生】 → 旧 「？？？/高年级生/学生会长」"
+      ]
+    },
+    {
+      "source": "私",
+      "target": "我",
+      "category": "character",
+      "status": "locked",
+      "samples": [
+        "HD 【私】 → 旧 「我」"
+      ]
+    },
+    {
+      "source": "少女A",
+      "target": "少女（未命名前，即后来的萤/纱奈姬）",
+      "category": "character",
+      "status": "locked",
+      "samples": [
+        "HD 【少女A】 → 旧 「少女」"
+      ]
+    },
+    {
+      "source": "蛍",
+      "target": "萤 / 萤火虫（角色身份，自称「我是萤」；注意「蛍光灯」=日光灯，勿混）",
+      "category": "character",
+      "status": "locked"
+    },
+    {
+      "source": "蛍女",
+      "target": "萤火虫（女人）（时雨对她的绰号「あの蛍女」）",
+      "category": "term",
+      "status": "locked"
+    },
+    {
+      "source": "紗奈姬",
+      "target": "纱奈姬（さなぎ 的旧译/音译，等同「纱奈姬」；本作正式用「纱奈姬」）",
+      "category": "character",
+      "status": "locked"
+    }
+  ],
+  "dismissed": [],
+  "candidates": [
+    {
+      "source": "蛹",
+      "target": "蛹",
+      "category": "term",
+      "status": "nominated",
+      "samples": [
+        "蛹"
+      ]
+    },
+    {
+      "source": "蝶",
+      "target": "蝶",
+      "category": "term",
+      "status": "nominated",
+      "samples": [
+        "蝶"
+      ]
+    },
+    {
+      "source": "羽化",
+      "target": "羽化",
+      "category": "term",
+      "status": "nominated",
+      "samples": [
+        "羽化"
+      ]
+    },
+    {
+      "source": "細菌",
+      "target": "细菌",
+      "category": "term",
+      "status": "nominated",
+      "samples": [
+        "細菌"
+      ]
+    },
+    {
+      "source": "幽霊",
+      "target": "幽灵",
+      "category": "term",
+      "status": "nominated",
+      "samples": [
+        "幽霊"
+      ]
+    },
+    {
+      "source": "記憶",
+      "target": "记忆",
+      "category": "term",
+      "status": "nominated",
+      "samples": [
+        "記憶"
+      ]
+    },
+    {
+      "source": "神様",
+      "target": "神明/神",
+      "category": "term",
+      "status": "nominated",
+      "samples": [
+        "神様"
+      ]
+    },
+    {
+      "source": "願い",
+      "target": "愿望",
+      "category": "term",
+      "status": "nominated",
+      "samples": [
+        "願い"
+      ]
+    },
+    {
+      "source": "用水路",
+      "target": "排水渠",
+      "category": "term",
+      "status": "nominated",
+      "samples": [
+        "用水路"
+      ]
+    },
+    {
+      "source": "ゾンビ",
+      "target": "僵尸",
+      "category": "term",
+      "status": "nominated",
+      "samples": [
+        "ゾンビ"
+      ]
+    },
+    {
+      "source": "微生物",
+      "target": "微生物",
+      "category": "term",
+      "status": "nominated",
+      "samples": [
+        "微生物"
+      ]
+    }
+  ]
+}
